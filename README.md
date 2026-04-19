@@ -1,6 +1,6 @@
 # SpendWise — Personal Finance Dashboard
 
-SpendWise is a full-stack Personal Finance Management System built using PHP + MySQL for final-year / AP project submission.
+SpendWise is a full-stack Personal Finance Management System built using PHP + MySQL for AP project submission.
 
 It helps users manage income, expenses, budgets, analytics, CSV bank statement imports, financial insights, expense prediction, and subscription detection through a modern dashboard interface.
 

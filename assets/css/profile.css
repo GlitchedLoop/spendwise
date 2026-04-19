@@ -1,0 +1,9 @@
+.profile-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+}
+
+.profile-card h2 {
+    margin-bottom: 20px;
+}

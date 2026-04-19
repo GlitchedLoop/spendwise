@@ -1,0 +1,61 @@
+# =========================
+# SpendWise .gitignore
+# =========================
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# XAMPP / local config
+config/local.php
+
+# Uploaded files
+assets/uploads/csv/*
+!assets/uploads/csv/.gitkeep
+
+# Logs
+logs/*.log
+logs/*.txt
+logs/error.log
+logs/import.log
+
+# Cache / temp files
+*.tmp
+*.temp
+*.cache
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Composer (if added later)
+vendor/
+
+# Node modules (if frontend tooling added later)
+node_modules/
+
+# Backup files
+*.zip
+*.rar
+*.bak
+*.old
+
+# Database dumps (optional local backups)
+database/*.sql.bak
+
+# Test exports
+test_exports/
+
+# Ignore accidental Excel uploads
+*.xlsx
+*.xls

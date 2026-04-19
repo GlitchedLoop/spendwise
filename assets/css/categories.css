@@ -1,0 +1,8 @@
+.category-table td a {
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.categories-page .top-actions {
+    margin-bottom: 20px;
+}

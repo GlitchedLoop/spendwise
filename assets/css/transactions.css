@@ -1,0 +1,20 @@
+.top-actions {
+    margin-bottom: 20px;
+}
+
+.filter-form {
+    display: flex;
+    gap: 14px;
+    flex-wrap: wrap;
+    margin-bottom: 25px;
+}
+
+.filter-form input,
+.filter-form select {
+    min-width: 180px;
+}
+
+.transaction-table td a {
+    text-decoration: none;
+    font-weight: 500;
+}

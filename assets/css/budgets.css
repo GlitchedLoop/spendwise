@@ -1,0 +1,8 @@
+.budget-table td {
+    vertical-align: middle;
+}
+
+.budget-table td:last-child a {
+    text-decoration: none;
+    font-weight: 500;
+}
